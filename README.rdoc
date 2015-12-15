@@ -1,0 +1,3 @@
+== README
+
+OTA for ios from rails app
